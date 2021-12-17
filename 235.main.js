@@ -1,1 +1,0 @@
-(self.webpackChunkpatternfly_yew=self.webpackChunkpatternfly_yew||[]).push([[235],{7235:()=>{}}]);
